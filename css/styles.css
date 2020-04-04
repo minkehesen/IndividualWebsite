@@ -5,9 +5,9 @@
 
 header {
 	padding: 40px;
-	background-image: url("../images/index_1_background.jpg");
-	background-color: aliceblue;
-	background-position: center;
+	background-image: url("../images/StockSnap_7QH4K6AESO.jpg");
+	background-color: pink;
+	background-position: bottom;
 	background-repeat: no-repeat;
 	background-size: cover;
 	line-height: 48px;
@@ -24,9 +24,9 @@ p.main-website-text {
 }
 
 h1 {
-	font-family: 'Squada One', cursive;
+	font-family: 'Kalam', cursive;
 	font-size: 50px;
-	color: aliceblue;
+	color: pink;
 	font-weight: bolder;
 	text-shadow: 2px 2px 8px black;
 	margin-left: 46px;
