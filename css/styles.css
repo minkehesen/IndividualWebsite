@@ -44,27 +44,16 @@ h2 {
 	right: 0;
 	bottom: 0;
 	left: 0;
-	background-color: lightpink;
-	text-align: center;
+	background-color: pink;
+	text-align: left;
 	margin-bottom: 0px; /*for practice*/
 	position: relative;
 	heigt: 400px;
 }
 
-.footer .footer-content {
-	border: 1px solid black; 
-	height: 350px; 
-	position: flex;
-}
-
-.footer .footer-content .footer-section {
-	flex: 1;
-	padding: 25px;
-	border: 1px solid white; 
-}
-
 .footer .footer-bottom {
-	background-color: pink;
+	background-color: lightpink;
+	border: black;
 	text-decoration-color: white;
 	height: 50px;
 	width: 100%;
